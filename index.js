@@ -216,7 +216,7 @@ instance.prototype.actions = function(system) {
 					default: '0',
 					choices: [
 						{ id: '0', label: 'Panel Unlocked' },
-						{ id: '1', label: 'Panel Locked' },
+						{ id: '1', label: 'Panel Locked' }
 					]
 				}
 			]
